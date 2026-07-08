@@ -8,6 +8,6 @@ I currently work on two main projects:
    testing, tooling of numerical models, etc.). Please check out our [organisation's
    GitHub](https://github.com/WRF-Chem-Polar) to see our work.
 
- - Coupling of the [Elmer/Ice](https://elmerice.elmerfem.org/) ice sheet model with the [IPSL-CM climate
-   model](https://ipsl.pages.in2p3.fr/icmc/plateforme/documentation/igcmg_doc/). This work should be released along
-   with the official IPSL-CM distribution in the near future.
+ - Coupling of the [Elmer/Ice](https://elmerice.elmerfem.org/) ice sheet model with the
+   [IPSL-CM](https://ipsl.pages.in2p3.fr/icmc/plateforme/documentation/igcmg_doc/) climate model. This work should be
+   released along with the official IPSL-CM distribution in the near future.
